@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.abb308d8.chunk.css",
-    "main.js": "/static/js/main.61cb11c4.chunk.js",
-    "main.js.map": "/static/js/main.61cb11c4.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.d114cc46.chunk.js": "/static/js/2.d114cc46.chunk.js",
-    "static/js/2.d114cc46.chunk.js.map": "/static/js/2.d114cc46.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.43fb00f8b42bdfcfe8dd73031631d71e.js": "/precache-manifest.43fb00f8b42bdfcfe8dd73031631d71e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.abb308d8.chunk.css.map": "/static/css/main.abb308d8.chunk.css.map",
-    "static/media/App.css": "/static/media/img-9.523a89f6.jpg"
+    "main.css": "/Subhash/static/css/main.40fe2f54.chunk.css",
+    "main.js": "/Subhash/static/js/main.61cb11c4.chunk.js",
+    "main.js.map": "/Subhash/static/js/main.61cb11c4.chunk.js.map",
+    "runtime~main.js": "/Subhash/static/js/runtime~main.af74311a.js",
+    "runtime~main.js.map": "/Subhash/static/js/runtime~main.af74311a.js.map",
+    "static/js/2.d114cc46.chunk.js": "/Subhash/static/js/2.d114cc46.chunk.js",
+    "static/js/2.d114cc46.chunk.js.map": "/Subhash/static/js/2.d114cc46.chunk.js.map",
+    "index.html": "/Subhash/index.html",
+    "precache-manifest.2cdce22153c5d9e50e13c0ef7f331cae.js": "/Subhash/precache-manifest.2cdce22153c5d9e50e13c0ef7f331cae.js",
+    "service-worker.js": "/Subhash/service-worker.js",
+    "static/css/main.40fe2f54.chunk.css.map": "/Subhash/static/css/main.40fe2f54.chunk.css.map",
+    "static/media/App.css": "/Subhash/static/media/img-9.523a89f6.jpg"
   }
 }
